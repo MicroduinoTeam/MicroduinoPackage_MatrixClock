@@ -15,6 +15,9 @@ https://github.com/wasdpkj/Microduino-IDE-Support/tree/OLD
 
 在此之后更新的IDE，都直接用主目录下的程序即可
 
+*新：  更改手机端控制软件，采用mDock。更新新玩法，增加画图功能。
+*历史：只有Android控制软件，无画图功能。
+
 蓝牙模块使用的是BLEUpload模块
 
 Matrix_Color_Clock：是彩色点阵控制。
