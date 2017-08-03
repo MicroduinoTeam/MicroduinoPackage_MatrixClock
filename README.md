@@ -15,7 +15,8 @@ https://github.com/wasdpkj/Microduino-IDE-Support/tree/OLD
 
 在此之后更新的IDE，都直接用主目录下的程序即可
 
-=蓝牙模块使用的是BLEUpload模块=
+蓝牙模块使用的是BLEUpload模块
 
-=Matrix_Color_Clock：是彩色点阵控制。=
-=Matrix_S2_Clock：是单色点阵控制。=
+Matrix_Color_Clock：是彩色点阵控制。
+
+Matrix_S2_Clock：是单色点阵控制。
